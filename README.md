@@ -2,7 +2,7 @@
 
 RandomForest model trained on the **Palmer Penguins** dataset, served via **FastAPI** with a simple HTML UI, containerized with **Docker**, pushed to **AWS ECR**, and deployed on **AWS ECS Fargate** behind a **public IP on port 8000**.
 
-**Live (your last deployment):**
+**Deployed Live:**
 
 ```
 http://34.226.204.228:8000/
@@ -35,9 +35,8 @@ http://34.226.204.228:8000/ui
 
 ## Architecture
 
-<p align="center">
-  <img src="architecture.png" width="820" alt="System Architecture"/>
-</p>
+<img width="1187" height="75" alt="image" src="https://github.com/user-attachments/assets/1b967898-a50f-4509-adec-7ffdcaa9458b" />
+
 
 **Flow:**  
 **Local**: Train → `model.pkl` → build Docker → push to **ECR**  
@@ -286,6 +285,5 @@ aws ecs update-service --cluster penguin-ml-cluster-new --service <YOUR_SERVICE_
 
 ## UI Preview
 
-<p align="center">
-  <img src="ui_screenshot.png" width="800" />
-</p>
+<img width="1519" height="765" alt="image" src="https://github.com/user-attachments/assets/a1a793dc-987f-40bf-80ea-046845d41a91" />
+
