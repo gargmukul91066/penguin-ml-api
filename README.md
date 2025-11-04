@@ -285,5 +285,5 @@ aws ecs update-service --cluster penguin-ml-cluster-new --service <YOUR_SERVICE_
 
 ## UI Preview
 
-<img width="1919" height="1198" alt="image" src="https://github.com/user-attachments/assets/67fb2e3e-489d-4ed2-ab7b-60a45e763245" />
+<img width="1413" height="534" alt="image" src="https://github.com/user-attachments/assets/31141789-11d7-4664-981a-9188bb925f1d" />
 
