@@ -227,8 +227,8 @@ docker push $ECR_URI:latest
 Test:
 
 ```
-http://<PUBLIC_IP>:8000/health
-http://<PUBLIC_IP>:8000/ui
+http://34.226.204.228:8000
+http://34.226.204.228:8000/ui
 ```
 
 ---
@@ -285,5 +285,5 @@ aws ecs update-service --cluster penguin-ml-cluster-new --service <YOUR_SERVICE_
 
 ## UI Preview
 
-<img width="1519" height="765" alt="image" src="https://github.com/user-attachments/assets/a1a793dc-987f-40bf-80ea-046845d41a91" />
+<img width="1919" height="1198" alt="image" src="https://github.com/user-attachments/assets/67fb2e3e-489d-4ed2-ab7b-60a45e763245" />
 
