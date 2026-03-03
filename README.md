@@ -161,7 +161,7 @@ pytest
 
 <!-- Replace the file name below with your actual UI screenshot -->
 
-<img width="1918" height="1199" alt="image" src="https://github.com/user-attachments/assets/cbcc4a72-888c-4cc4-8e0e-004bd6f2647d" />
+<img width="1737" height="1198" alt="image" src="https://github.com/user-attachments/assets/640704f1-018c-459c-99ef-6b4cb92b5432" />
 
 
 ---
