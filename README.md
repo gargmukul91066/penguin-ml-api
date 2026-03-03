@@ -33,9 +33,8 @@ It simulates how ML systems are built and served in real-world production enviro
 
 <!-- Replace the file name below with your actual architecture image -->
 
-<p align="center">
-  <img src="images/architecture.png" width="700">
-</p>
+
+<img width="1100" height="476" alt="image" src="https://github.com/user-attachments/assets/709ff81c-7296-4e12-b0b8-9230451d8d15" />
 
 ---
 
@@ -95,6 +94,7 @@ penguin-ml-api/
   "flipper_length_mm": 195,
   "body_mass_g": 4200
 }
+Output : Adelie 
 ```
 
 ---
@@ -161,9 +161,8 @@ pytest
 
 <!-- Replace the file name below with your actual UI screenshot -->
 
-<p align="center">
-  <img src="images/ui-preview.png" width="700">
-</p>
+<img width="1918" height="1199" alt="image" src="https://github.com/user-attachments/assets/cbcc4a72-888c-4cc4-8e0e-004bd6f2647d" />
+
 
 ---
 
